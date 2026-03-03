@@ -1,0 +1,1 @@
+streamlit run "F:\python code\temporary\webapp\multiple_disease_prediction.py"
