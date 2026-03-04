@@ -1,0 +1,51 @@
+# Aimani Interview Presentation
+
+## Slide 1: Title Slide
+- **Title:** Aimani Interview Presentation
+- **Subtitle:** Projects Overview
+- **Your Name:** Fayaj Nakib
+- **Date:** 2026-03-04
+
+## Slide 2: Cassetex UI Frontend
+- **Overview:**
+    - Designed the user interface for the Cassetex application to enhance user engagement.
+    - Utilized React.js for dynamic rendering and user experience.
+- **Technologies Used:**
+    - React.js, CSS, JavaScript
+    - Integrated RESTful APIs for data handling.
+- **Key Features:**
+    - Responsive design and intuitive navigation.
+    - User authentication and profile management.
+- **Presenter Notes:** Discuss UI challenges and design choices.
+
+## Slide 3: Cassetex Backend
+- **Overview:**
+    - Developed the backend services for the Cassetex application.
+    - Focused on building scalable and secure APIs.
+- **Technologies Used:**
+    - Node.js, Express.js, MongoDB
+    - Implemented JWT for authentication.
+- **Key Features:**
+    - RESTful API endpoints for frontend communication.
+    - Database design and optimization.
+- **Presenter Notes:** Explain backend architecture and data flow.
+
+## Slide 4: Multiple Disease Predictor System
+- **Overview:**
+    - Created a predictive model to detect multiple diseases based on patient symptoms.
+    - Leveraged machine learning algorithms for accuracy.
+- **Technologies Used:**
+    - Python, Scikit-Learn, Pandas
+    - Flask for web app deployment.
+- **Key Features:**
+    - User-friendly interface for symptom input.
+    - Visualization of prediction results.
+- **Presenter Notes:** Discuss the model's training process and accuracy.
+
+## Slide 5: Conclusion
+- **Summary:**
+    - Overview of project experiences and learning outcomes.
+    - Emphasized skills gained (technical and soft skills).
+- **Questions:**
+    - Open the floor for any questions.
+- **Presenter Notes:** Prepare answers for potential questions about the projects.
